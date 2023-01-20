@@ -4,4 +4,4 @@
 
 ## This repository holds all the implementation of their apis and you can check out our video. 
 
-### check out our youtube channel for our videos. https://www.youtube.com/@apikodes
+### Check out our YouTube Channel for our videos. https://www.youtube.com/@apikodes
