@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "flutterwavedev/flutterwave-v3": "^1.0"
+    }
+}
