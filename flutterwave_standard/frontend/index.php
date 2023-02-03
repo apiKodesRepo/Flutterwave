@@ -14,7 +14,7 @@ if (isset($_POST['make_payment_btn'])) {
         $amount = $_POST['amount'];
 
         $data = [
-            "tx_ref" => "123345fiifflsow",
+            "tx_ref" => "123345fiifflsow" . rand(5, 999999),
             "amount" => $amount,
             "currency" => "NGN", // mine is NGN 
             "redirect_url" => REDIRECT_URL,
